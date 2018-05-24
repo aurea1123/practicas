@@ -1,0 +1,289 @@
+.banner{
+	background-image: url("../img/im/banner2.jpg");
+	background-repeat: no-repeat;
+	background-size: 120%;
+height: 70px;
+height: 70%;
+width: 100%;
+}
+.banner2{
+	background-image: url("../img/im/banner3.jpg");
+	background-repeat: no-repeat;
+	background-size: 120%;
+height: 70px;
+height: 70%;
+width: 100%;
+}
+input, textarea{
+width: 50%;
+height:input 5%;
+margin-bottom: 5%;
+border: 1px solid #393939;
+border-radius: 5px 5px 5px 5px;
+color: #393939;
+font-size: 12px;
+padding: 5px;
+}
+textarea{
+margin: auto;
+width: 100%;
+height: 50%;
+}
+.input{
+	height: 1000px;
+	display: block;
+	margin: auto;
+	margin-right: 0;
+	padding: 1%;
+	padding-left: 10%;
+	padding-right: 0%;
+margin-left: 30%;
+}
+.block{
+display: block;
+}
+.fil{
+display: flex;
+flex-direction: row;
+}
+.tel{
+margin-top: 100%;
+margin: auto;
+margin-left: auto;
+text-align: right;
+padding-left: 80%;
+padding-top: 1%;
+float: right;
+
+}
+.tel2{
+margin-top: 100%;
+margin: auto;
+text-align: right;
+}
+h1{
+font-size: 30px;
+}
+.blo{
+font-weight: bold;
+}
+.tex{
+font-style: normal;
+}
+.bot{
+	display: inline-block;
+	padding: 2%;
+margin: 2%;
+border-radius: 10px;
+}
+.cent{
+margin:  30%;
+margin-left: 3%;
+padding-top: 10%;
+margin-top: 0%;
+margin-right: 0%;
+}
+.gran{
+font-weight: bold;
+font-size: 50px;
+color: white;
+}
+.gran2{
+font-weight: bold;
+font-size: 30px;
+}
+.green{
+color: lightgreen;
+}
+.green2{
+background-color: lightgreen;
+}
+.bot2{
+padding: 3%;
+color: white;
+background-color: black;
+margin-right: 85%;
+padding-bottom: 1%;
+vertical-align: center;
+text-align: center;
+border-radius: 5px;
+}
+.img{
+margin: 50%;
+display: block;
+margin-top: 30%;
+}
+.col{
+display: flex;
+flex-direction: col;
+display: block;
+}
+.left{
+float: left;
+}
+.br{
+margin-top: 50%;
+}
+.cua{
+padding: 5%;
+}
+.cua4{
+padding: 5%;
+}
+.cua5{
+width: 100%;
+
+margin: auto;
+}
+.cua6{
+width: 100%;
+padding: 1%;
+margin: auto;
+}
+.cua2{
+border: 5px solid white;
+padding: 1%;
+padding-right: 40%;
+margin: 1%;
+margin-top: 1%;
+}
+.verde{
+background-color: green;
+}
+.amar{
+background-color: yellow;
+}
+.gris{
+background-color: #E6E6E6;
+}
+.fot{
+margin-bottom: 10%;
+}
+.right{
+float: right;
+}
+.bot3{
+background-color: black;
+padding: 2%;
+}
+.in{
+display: inline-block;
+}
+.cua3{
+	padding: 10%;
+	padding-top: 1%;
+}
+a{
+text-decoration: none;
+color: black;
+}
+.cat{
+margin-left: 40%;
+}
+.back{
+height: 100px;
+width: 30px;
+display: inline-block;
+}
+.back1{
+background-image: url("../img/im/bb1.jpg");
+background-repeat: no-repeat;
+width: 30%;
+margin: 1%;
+padding-bottom: 10%;
+}
+.back2{
+background-image: url("../img/im/bb2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+padding-right: 10%;
+width: 50%;
+margin: 1%;
+height: 200px;
+border: 1px solid black;
+}
+.back3{
+background-image: url("../img/im/bb3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+padding-right: 15%;
+width: 50%;
+border: 1px solid black;
+margin: 1%;
+}
+.back4{
+background-image: url("../img/im/bb4.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+padding: 10%;
+width: 50%;
+margin: 1%;
+border: 1px solid black;
+height: 200px;
+}
+.back5{
+background-image: url("../img/im/bb5.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+width: 50%;
+margin: 1%;
+}
+@media (min-width: 500px) {
+input, textarea{
+display: inline-block;
+width: 50%;
+height:input 5%;
+margin-bottom: 5%;
+}
+textarea{
+margin: auto;
+width: 100%;
+height: 50%;
+}
+.input{
+	height: 1000px;
+	display: block;
+	margin: auto;
+	margin-right: 0;
+	padding: 1%;
+	padding-left: 10%;
+	padding-right: 0%;
+margin-left: 30%;
+}
+}
+@media (max-width: 500px) {
+input, textarea{
+	display: block;
+width: 100%;
+height: 5%;
+margin-bottom: 5%;
+
+}
+.input{
+	margin: auto;
+margin-top: 150%;
+}
+textarea{
+height: 400px;
+}
+.Dir{
+display: block;
+}
+
+}
+.logo{
+background-image: url("../img/im/logo2.png");
+height: 100px;
+padding: 1%;
+width: 100%;
+background-repeat: no-repeat;
+display: block;
+}
+.logo2{
+background-image: url("../img/im/logo2.png");
+height: 70px;
+padding: 1%;
+width: 100%;
+background-repeat: no-repeat;
+display: block;
+}
